@@ -7,6 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 ## Screen Shoot
+
 ![image](https://github.com/ugunNet21/laravel10-captcha-inventory/assets/45864165/0f7c1834-a7e5-4698-b760-616dbedf0ae4)
 
 
