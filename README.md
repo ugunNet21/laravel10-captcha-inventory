@@ -6,9 +6,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-## Screen Shoot
 
-![image](https://github.com/ugunNet21/laravel10-captcha-inventory/assets/45864165/0f7c1834-a7e5-4698-b760-616dbedf0ae4)
+
 
 
 ## About Laravel
@@ -22,6 +21,9 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - Database agnostic [schema migrations](https://laravel.com/docs/migrations).
 - [Robust background job processing](https://laravel.com/docs/queues).
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+  
+## ScreenShoot
+![image](https://github.com/ugunNet21/laravel10-captcha-inventory/assets/45864165/0f7c1834-a7e5-4698-b760-616dbedf0ae4)
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
